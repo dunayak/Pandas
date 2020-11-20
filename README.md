@@ -1,2 +1,4 @@
 # Pandas
-This repository is for pandas self learning documentations and projects
+This repository is for pandas self learning documentation and projects
+
+print ('Hello World')
